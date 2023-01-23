@@ -1,0 +1,34 @@
+{
+  "name": "take-your-smile-server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.8.1",
+    "react-timer-hook": "^3.0.5",
+    "stripe": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md-asif-iqbal/take-your-smile-server-side.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/md-asif-iqbal/take-your-smile-server-side/issues"
+  },
+  "homepage": "https://github.com/md-asif-iqbal/take-your-smile-server-side#readme",
+  "description": "",
+  "jsonwebtoken": "^8.5.1",
+  "mongodb": "^4.8.1",
+  "nodemon": "^2.0.19"
+}
